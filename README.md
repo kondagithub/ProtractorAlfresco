@@ -12,5 +12,5 @@ Issue 'webdriver-manager start'  command. The webdrive manager will be started.<
 Open another command prompt under project root folder.<br/>
 Issue 'npm test -- --userName=guest@example.com --passWord=Password' command.<br/>
 With the above command test execution will be started.<br/>
-Once the test execution completed you can open generated report under root folder with the name 'ProtractorTestReport.html' in any browser.<br/>
+Once the test execution completed you can open generated report under root folder with the name 'ProtractorTestReport.html' and open in any browser.<br/>
 Then you can find test execution status.<br/>
