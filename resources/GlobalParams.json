@@ -1,0 +1,8 @@
+{
+    "providerName" : "ECM",
+    "folderName" : "TestAlfresco",
+    "settingsPageURL" : "http://qaexercise.envalfresco.com/settings",
+    "loginPageURL" : "http://qaexercise.envalfresco.com/login",
+    "homePageURL" : "http://qaexercise.envalfresco.com/home",
+    "filesPageURL" : "http://qaexercise.envalfresco.com/files"
+}

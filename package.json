@@ -1,0 +1,17 @@
+{
+  "name": "alfresco",
+  "version": "1.0.0",
+  "description": "alfresco test",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "jasmine": "^3.5.0",
+    "yargs": "^15.4.1",
+    "protractor-html-reporter-2": "^1.0.4"
+  },
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "konda",
+  "license": "ISC"
+}
