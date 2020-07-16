@@ -1,6 +1,6 @@
 #Prerequisites
--Install Node.js
--Install chrome browser
+Install Node.js
+Install chrome browser
 
 Checkout the project to your local computer under any folder.
 Open command prompt and change the directory to the previous folder.
