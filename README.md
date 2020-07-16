@@ -1,5 +1,5 @@
 #Prerequisites<br/>
-Install Node.js\n<br/>
+Install Node.js<br/>
 Install chrome browser<br/>
 
 Checkout the project to your local computer under any folder.<br/>
